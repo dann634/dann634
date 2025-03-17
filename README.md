@@ -1,6 +1,7 @@
-# 💫 About Me:
-🧠​ Computer Science Student (BSc)<br>🎓 University of Exeter<br>🌱 Learning about Cloud Computing (AWS/Azure)<br>🔭 Currently working on an app to track Alcohol Consumption<br><br><br><br>
+## Hi, I'm Dan 🦍
 
+# 💫 About Me:
+🧠​ Computer Science Student (BSc)<br>🎓 University of Exeter<br>🌱 Learning about Cloud Computing (AWS/Azure)<br>🔭 Currently working on an app to track Alcohol Consumption<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dan.jackso_n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dan-jackson-65b76027a) 
