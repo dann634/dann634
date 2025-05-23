@@ -1,7 +1,7 @@
-# Hi, I'm Dan (●'◡'●)
+# Hi, I'm Dan
 
 # 💫 About Me:
-🧠​ Computer Science Student (BSc)<br>🎓 University of Exeter<br>🌱 Learning about Cloud Computing (AWS/Azure)<br>🔭 Currently working on an app to track Alcohol Consumption<br><br>
+🧠​ Computer Science Student (BSc)<br>🎓 University of Exeter<br>🌱 Learning about the Spring Boot Framework<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dan-jackson-65b76027a) 
 
 # 💻 Tech Stack:
