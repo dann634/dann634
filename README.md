@@ -1,4 +1,4 @@
-Hi 👋, I'm Dan
+# Hi 👋, I'm Dan
 A passionate backend developer entering the industry.
 
 # 💫 About Me:
